@@ -1,5 +1,5 @@
 ﻿using System;
-
+//
 namespace BPL.CDC.Models
 {     
     public class ChangeDataCapture
